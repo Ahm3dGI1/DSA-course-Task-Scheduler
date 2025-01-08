@@ -9,7 +9,7 @@ This project implements a daily task scheduler using a custom **Max Heap** to pr
 ## Features
 
 ### 1. **Max Heap Implementation**
-- A custom `MaxHeap` class is built from scratch.
+- A custom `MaxHeap` class is built from scratch using Python lists and Heap algorithms.
 - Maintains the highest-priority task at the root.
 - Supports insertion (`heappush`) and removal (`heappop`) while ensuring the heap property.
 
